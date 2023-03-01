@@ -6,7 +6,14 @@
     background-size: 100%;
     
 
+}
+#ln1{
+    margin: 0% 5% 0% 5%;
 
+}
+#modern{
+    background-color: #dfc0ad;
+    padding-left: 0%;
 }
 .nav{
     margin-left: 5%;
@@ -17,6 +24,7 @@
     justify-items: right;
     list-style: none;
     justify-content: space-between;
+    
     
 }
 
@@ -48,7 +56,11 @@
     margin-top: 7%;
     margin-left: 30%;
 }
-line{
+
+.line1{
+background-color: #ffe5d6;
+width: 10%;
+
 
 }
 .imgs{
@@ -89,6 +101,8 @@ line{
     background-color:#cd682e; ;
     padding: 10px;
     margin-left: 50%;
+    border-radius: 10%;
+    margin-top: none;
     
 }
 .bluec{
@@ -111,15 +125,15 @@ line{
 }
 .winter{
     width: 80%;
-    height: 130%;
+    height: 120%;
 
 }
 .bk{
     margin-right: 8%;
 }
 .book{
-    width: 110%;
-    height: 130%;
+    width: 120%;
+    height: 120%;
     
     
 }
@@ -127,23 +141,25 @@ line{
     margin-right: 7%;
 }
 .seat{
-    width: 80%;
-    height: 130%;
+    width: 100%;
+    height: 120%;
 }
 .explore{
     background-color: #cd682e;
-    padding: 0.5%;
+    padding: 1%;
     margin-left: 45%;
-    margin-top: 10%;
+    margin-top: 14%;
     margin-bottom: 5%;
+    border-radius: 10%;
 }
 .ins{
-    background-color: #e0bda9;
+    background-color: #f4d4c2;
     border-radius: 40000px;
     padding: 0% 0%;
+    margin-left: 12%;
 }
 .needs{
-    padding: 0% 23%;
+    padding: 7% 20% 12% 20%;
    
 }
 .needs a{
