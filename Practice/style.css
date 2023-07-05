@@ -1,0 +1,38 @@
+.body{
+    border: solid;
+    border-color: rgb(171, 123, 216);
+    border-width: 20px;
+    border-bottom: none;
+}
+.top li{
+    list-style: none;
+    margin-right: 7%;
+    
+}
+.nav{
+    padding-right: 20px;
+}
+.list{
+    display: flex;
+}
+.head1{
+    height: 10%;
+    margin-right: 10%;
+    
+}
+
+.hd1{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.hd2{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.hd3{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
